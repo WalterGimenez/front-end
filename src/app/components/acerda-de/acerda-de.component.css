@@ -1,0 +1,53 @@
+#banner{
+    
+    width: 99%;
+    height: 500px;
+    margin-top: -30px;
+    margin-left: 10px;
+    margin-bottom: -10px;
+    border-radius: 25px;
+}
+
+#gim{
+    position:absolute;
+    width: 140px;
+    border-radius: 100px;
+    top: 490px;
+    left: 40px;
+    z-index: 5;
+}
+
+
+
+
+
+h1, h5, h3, .acerca{
+    margin-left: 30px;
+}
+
+
+
+.logo{
+    text-align:right;
+    
+    
+}
+#unaj{
+    height: 80px;
+    width: 80px;
+    margin-right: 130px;
+    margin-top: -140px;
+}
+ 
+nav{
+    margin-left: 20px;
+    margin-top: -60px;
+}
+
+#desarrollo{
+    float: right;
+    height: 70px;
+    width: 160px;
+    margin-top: -90px;
+    margin-right: 90px;
+}

@@ -7,6 +7,7 @@ import { BotonComponent } from './components/boton/boton.component';
 import { PaginaErroneaComponent } from './components/pagina-erronea/pagina-erronea.component';
 import { HomeComponent } from './components/home/home.component';
 import { HeaderComponent } from './components/header/header.component';
+import { AcerdaDeComponent } from './components/acerda-de/acerda-de.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { HeaderComponent } from './components/header/header.component';
     BotonComponent,
     PaginaErroneaComponent,
     HomeComponent,
-    HeaderComponent
+    HeaderComponent,
+    AcerdaDeComponent
   ],
   imports: [
     BrowserModule,
